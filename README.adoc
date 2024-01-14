@@ -22,6 +22,7 @@ Maintaining a project like StreamFX requires time and money, of which both are i
 === License
 Licensed under link:https://github.com/Xaymar/obs-StreamFX/blob/root/LICENSE[GPLv3 (or later), see LICENSE]. Additional works included are:
 
+
 [options="header"]
 |=================
 |Work |License |Author(s)
